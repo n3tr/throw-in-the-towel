@@ -1,10 +1,21 @@
 {
   "name": "throw-in-the-towel",
   "version": "1.0.1",
-  "description": "",
+  "description": "Quick React Prototyping?",
   "main": "index.js",
-  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmartinez101/throw-in-the-towel.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/danmartinez101/throw-in-the-towel/issues"
+  },
+  "homepage": "https://github.com/danmartinez101/throw-in-the-towel#readme"
 }
